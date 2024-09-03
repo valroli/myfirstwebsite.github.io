@@ -1,0 +1,13 @@
+english-learning/
+│
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+├── img/
+│   ├── example.png
+│   ├── example.jpg
+│   ├── example.webp
+│   └── example.gif
+└── Bootstrap (included from CDN in HTML)
